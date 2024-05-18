@@ -7,7 +7,7 @@ Here is how the design looks like
 
 ![image](https://github.com/GhajariAli/BasicLineFollower_RpiPicoW/assets/124516346/e171f4af-3f0f-424d-9f85-47613aa05202)
 
-Don't worru about the name, it's silly joke back from school
+Don't worry about the name, it's silly joke back from school
 
 
 And it looks like this
